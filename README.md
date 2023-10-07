@@ -1,5 +1,9 @@
 
 <!--START_SECTION:waka-->
+
+[![An image of @scarllethub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/scarllethub)](https://holopin.io/@scarllethub)
+
+
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning Models.<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with projects and learning.<br>🌱 I’m currently learning Machine Learning and Web Developement.<br>💬 Ask me about technology and mathematics.<br>⚡ Fun fact
 
