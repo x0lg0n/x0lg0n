@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning Models.<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with projects and learning.<br>🌱 I’m currently learning Machine Learning and Web Developement.<br>💬 Ask me about technology and mathematics.<br>⚡ Fun fact
+🔭 I’m currently working on Machine Learning Models.<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with projects and learning.<br>🌱 I’m currently learning Machine Learning and Web Developement.<br>💬 Ask me about technology and mathematics.<br>⚡ Fun fact : I Love Watching Anime.
 
 
 ## 🌐 Socials:
@@ -19,8 +19,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SCARLLET-hub&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SCARLLET-hub&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+[![](https://github-profile-trophy.vercel.app/?username=SCARLLET-hub&theme=radical&no-frame=true&no-bg=false&margin-w=4)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31527mdjgu4osnmofdv4ng7l5atu)
+
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
