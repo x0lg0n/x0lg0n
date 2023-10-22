@@ -7,6 +7,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning Models.<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with projects and learning.<br>🌱 I’m currently learning Machine Learning and Web Developement.<br>💬 Ask me about technology and mathematics.<br>⚡ Fun fact : I Love Watching Anime.
 
+<img src="https://github.com/SCARLLET-hub/SCARLLET-hub/blob/main/assets/12161.gif" alt="" width="100%"/>
 
 
 ## 🌐 Socials:
