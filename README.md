@@ -7,7 +7,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning Models.<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with projects and learning.<br>🌱 I’m currently learning Machine Learning and Web Developement.<br>💬 Ask me about technology and mathematics.<br>⚡ Fun fact : I Love Watching Anime.
 
-<img src="" alt="" width="100%"/>
+<img src="https://github.com/SCARLLET-hub/SCARLLET-hub/blob/main/assets/26206.gif" alt="" align-item = "center" width="100%" />
 
 
 ## 🌐 Socials:
@@ -24,19 +24,26 @@
 ## 🏆 GitHub Trophies
 [![](https://github-profile-trophy.vercel.app/?username=SCARLLET-hub&theme=radical&no-frame=true&no-bg=false&margin-w=4)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
 
-#
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SCARLLET-hub&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+# Spotify Playing 🎧
+[
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31527mdjgu4osnmofdv4ng7l5atu)
 
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 
+- [How to create a simple REST API using Node.js and Express](https://medium.com/@siddharthakunwar/how-to-create-a-simple-rest-api-using-node-js-and-express-9b9e7a3c7f4)
+
 <!-- BLOG-POST-LIST:END -->
+
+<img src="https://github.com/SCARLLET-hub/SCARLLET-hub/blob/main/assets/file.svg" style="max-width:100%;"/>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SCARLLET-hub&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SCARLLET-hub&icon=2&color=12)](https://visitcount.itsvg.in)
