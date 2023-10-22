@@ -28,18 +28,17 @@
 ![](https://github-contributor-stats.vercel.app/api?username=SCARLLET-hub&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 # Spotify Playing 🎧
-[
+[![Spotify](https://novatorem-ten-umber.vercel.app/api/spotify)](https://open.spotify.com/user/31527mdjgu4osnmofdv4ng7l5atu)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31527mdjgu4osnmofdv4ng7l5atu)
 
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
+# 📈 GitHub Activity Graph
 
-- [How to create a simple REST API using Node.js and Express](https://medium.com/@siddharthakunwar/how-to-create-a-simple-rest-api-using-node-js-and-express-9b9e7a3c7f4)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SCARLLET-hub&theme=dracula&hide_border=false&area=true)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SCARLLET-hub&theme=dracula&hide_border=false)](https://git.io/streak-stats)
 
-<!-- BLOG-POST-LIST:END -->
 
-<img src="https://github.com/SCARLLET-hub/SCARLLET-hub/blob/main/assets/file.svg" style="max-width:100%;"/>
+![]<img src="https://github.com/SCARLLET-hub/SCARLLET-hub/blob/main/assets/file.svg" style="max-width:100%;"/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
