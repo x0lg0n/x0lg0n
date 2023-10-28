@@ -33,7 +33,7 @@
 
 
 
-<img src="https://github.com/SCARLLET-hub/x0lg0n/blob/main/assets/file.svg" style="max-width:100%;"/>
+<img src="https://github.com/x0lg0n/x0lg0n/blob/main/assets/file.svg" style="max-width:100%;"/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
