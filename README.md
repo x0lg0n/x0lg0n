@@ -3,7 +3,6 @@
 
 [![An image of @scarllethub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/scarllethub)](https://holopin.io/@scarllethub)
 
-
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning Models.<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with projects and learning.<br>🌱 I’m currently learning Machine Learning and Web Developement.<br>💬 Ask me about technology and mathematics.<br>⚡ Fun fact : I Love Watching Anime.
 
@@ -52,7 +51,8 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/siddhartha.002) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RyomenSukuna131) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/vapor_wave) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/siddhartha002) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![x0lg0n's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=x0lg0n&theme=react-dark)](https://github.com/x0lg0n/github-readme-activity-graph)
 
 
 
