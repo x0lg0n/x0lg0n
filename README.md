@@ -79,12 +79,12 @@
 
 <a href="https://hellogithub.com/repository/6a754391f9c84aa6830a6ed7927c4afb" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=6a754391f9c84aa6830a6ed7927c4afb&claim_uid=xsYT8dcBt7iI5K0&theme=dark" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
-
+![x0lg0n's github activity graph](https://raw.githubusercontent.com/x0lg0n/idimetrix/output/github-contribution-grid-snake-dark.svg)
 <!--START_SECTION:waka-->
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/siddhartha.002) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RyomenSukuna131) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/vapor_wave) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/siddhartha002) 
-
+![](https://count.getloli.com/get/@x0lg0n.github.readme)
   
 
 [![x0lg0n's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=x0lg0n&theme=react-dark)](https://github.com/x0lg0n/github-readme-activity-graph)
