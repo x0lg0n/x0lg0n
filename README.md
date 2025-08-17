@@ -97,6 +97,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/pacman-contribution-graph.svg">
 </picture>
 
-
 <!--END_SECTION:waka-->
-            
