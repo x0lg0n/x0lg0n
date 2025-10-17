@@ -56,7 +56,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=x0lg0n&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=x0lg0n&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/53a0efcc-a4ab-4ae0-8a4e-344cccd9e1dd/thumbnail" >
+</p>
 
 ## 🏆 GitHub Trophies
 [![](https://github-profile-trophy.vercel.app/?username=x0lg0n&theme=radical&no-frame=true&no-bg=false&margin-w=4)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
