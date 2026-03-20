@@ -85,7 +85,7 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 <table align="center">
   <tr>
     <td valign="top" align="center" width="230">
-      <img src="./assets/Angry%20Cat%20Girl%20Sticker%20by%20Crunchyroll.gif" alt="Angry Cat Girl Sticker" width="200" />
+      <img src="./assets/Animation Thank You Sticker by Holler Studios.gif" alt="Angry Cat Girl Sticker" width="200" />
     </td>
     <td valign="top">
       <table>
