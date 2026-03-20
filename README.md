@@ -119,6 +119,10 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
         <li><code>10.5k+</code> lines of code written.</li>
         <li><code>500+</code> commits completed.</li>
         <li>Active open-source builder and community contributor.</li>
+        <li>Built a strong build-in-public presence across GitHub, X, LinkedIn, Medium, DEV.to, daily.dev, and Stack Overflow.</li>
+        <li>Maintains a public portfolio spanning backend, blockchain, full-stack development, and practical AI/ML experiments.</li>
+        <li>Consistently documents progress through profile analytics, contribution graphs, and community-facing content.</li>
+        <li>Earned recognition through open-source events while actively mentoring and collaborating in developer communities.</li>
       </ul>
     </td>
     <td width="28%" align="center" valign="top">
