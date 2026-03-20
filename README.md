@@ -1,97 +1,159 @@
-
-<!--START_SECTION:waka-->
-
-[![An image of @scarllethub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/scarllethub)](https://holopin.io/@scarllethub)
+<h1 align="center">Siddhartha Kunwar | Tech Influencer + Solo Builder</h1>
 
 <p align="center">
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=60&lines=I+LOVE+OPEN+SOURCE
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&height=60&lines=I+LOVE+OPEN+SOURCE
-    "
-  />
-  <img
-    alt="Star History Chart"
-    src="https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=60&lines=I+LOVE+OPEN+SOURCE"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Products+In+Public;Machine+Learning+%2B+Full-Stack+Creator;Open+Source+%7C+Content+%7C+Community" alt="Typing headline" />
 </p>
 
-<h1 align='center'> GSSOC(24) Badges 🪶 </h1>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2050%20mins-blue" alt="Code Time" />
+  <img src="https://img.shields.io/badge/Lines%20of%20Code-10.5%20k-brightgreen" alt="Lines of Code" />
+  <img src="https://img.shields.io/badge/Commits-500-yellow" alt="Commits" />
+</p>
+
+<p align="center">
+  <a href="https://holopin.io/@scarllethub">
+    <img src="https://holopin.me/scarllethub" alt="Holopin badges" />
+  </a>
+</p>
+
+I build, ship, and share in public.
+I am growing a creator-first developer brand around Blockchain, full-stack products, and open-source contributions.
+
+---
+
+<h2 align="center">About Me</h2>
+
+- I build and ship machine learning + full-stack projects in public.
+- I share experiments, lessons, and workflows as a tech creator.
+- I collaborate with developers and open-source communities worldwide.
+- I am currently deepening my skills in Backend Developemnt & Blockchain development.
+- Ask me about technology, mathematics, and practical project building.
+- Fun fact: I love watching anime.
+
+<img src="./assets/26206.gif" alt="Banner GIF" width="100%" />
+
+---
+
+
+<h2 align="center">Favorite Tech</h2>
+
+> Tools, languages, and platforms I like to work with.
+
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" height="44" alt="Python" /><br/>Python</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" /><br/>JavaScript</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" alt="React" /><br/>React</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js" /><br/>Node.js</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="44" height="44" alt="Express.js" /><br/>Express</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44" height="44" alt="MongoDB" /><br/>MongoDB</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL" /><br/>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="44" height="44" alt="TensorFlow" /><br/>TensorFlow</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="44" height="44" alt="Docker" /><br/>Docker</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="44" height="44" alt="Google Cloud" /><br/>GCP</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44" height="44" alt="Git" /><br/>Git</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44" height="44" alt="GitHub" /><br/>GitHub</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5" /><br/>HTML5</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3" /><br/>CSS3</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="44" height="44" alt="Tailwind CSS" /><br/>Tailwind</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="44" height="44" alt="Next.js" /><br/>Next.js</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="44" height="44" alt="Linux" /><br/>Linux</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="44" height="44" alt="Figma" /><br/>Figma</td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">Follow My Journey</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="130"><a href="https://github.com/x0lg0n"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" /><br/>GitHub</a></td>
+    <td align="center" width="130"><a href="https://twitter.com/Siddhar08995842"><img src="https://cdn.simpleicons.org/x/000000" alt="X" width="40" height="40" /><br/>X</a></td>
+    <td align="center" width="130"><a href="https://www.linkedin.com/in/siddhartha-kunwar"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" /><br/>LinkedIn</a></td>
+    <td align="center" width="130"><a href="https://instagram.com/siddhartha.002"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40" /><br/>Instagram</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><a href="https://stackoverflow.com/users/22454565"><img src="https://cdn.simpleicons.org/stackoverflow/FE7A16" alt="Stack Overflow" width="40" height="40" /><br/>Stack Overflow</a></td>
+    <td align="center" width="130"><a href="https://dev.to/x0lg0n"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/devdotto.svg" alt="DEV Community" width="40" height="40" /><br/>DEV.to</a></td>
+    <td align="center" width="130"><a href="https://medium.com/@siddharthakunwar"><img src="https://cdn.simpleicons.org/medium/12100E" alt="Medium" width="40" height="40" /><br/>Medium</a></td>
+    <td align="center" width="130"><a href="https://app.daily.dev/x0lg0n"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dailydotdev.svg" alt="daily.dev" width="40" height="40" /><br/>daily.dev</a></td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">Achievements</h2>
+
+- GSSOC 2024 & 2025 contributor with multiple badges earned.
+- `1,200+` coding hours tracked.
+- `10.5k+` lines of code written.
+- `500+` commits completed.
+- Active open-source builder and community contributor.
+
+--- 
+
+<div align="center">
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="96" height="96" alt="Postman White" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="96" height="96" alt="Badge 1" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="96" height="96" alt="Badge 2" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="96" height="96" alt="Badge 3" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="96" height="96" alt="Badge 4" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="96" height="96" alt="Badge 5" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100" height="100" alt="Badge 6" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="96" height="96" alt="Badge 7" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="96" height="96" alt="Badge 8" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="100" height="100" alt="Code Luminary" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="96" height="96" alt="Git Explorer" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="96" height="96" alt="Pull Expert" />
+  </a>
 </div>
 
-# 💫 About Me:
-🔭 I’m currently working on Machine Learning Models.<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with projects and learning.<br>🌱 I’m currently learning Machine Learning and Web Developement.<br>💬 Ask me about technology and mathematics.<br>⚡ Fun fact : I Love Watching Anime.
+---
 
-<img src="https://github.com/SCARLLET-hub/x0lg0n/blob/main/assets/26206.gif" alt="" align-item = "center" width="100%" />
+<h2 align="center">Open Source Contributions</h2>
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=x0lg0n&theme=react-dark)
+![](https://ghchart.rshah.org/409ba5/x0lg0n)
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/siddharkunwar1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddhartha.002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhartha-kunwar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@siddharthakunwar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/LuCifeR1166o) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Siddhartha-Kunwar-2) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Wise-Vegetable4775) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22454565) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/x_xvaporwavex_x) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Siddhar08995842) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Marakash) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@siddhartha002@mastodon.social) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+<h2 align="center">GitHub Stats</h2>
 
-# 📊 GitHub Stats:
+<table align="center">
+  <tr>
+    <td colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x0lg0n&theme=github_dark" alt="Profile Details" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=x0lg0n&theme=github_dark" alt="Profile Stats Summary" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=x0lg0n&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=x0lg0n&theme=github_dark" alt="Repos Per Language" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=x0lg0n&theme=github_dark" alt="Most Commit Language" />
+    </td>
+  </tr>
+</table>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=x0lg0n&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=x0lg0n&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=x0lg0n&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/53a0efcc-a4ab-4ae0-8a4e-344cccd9e1dd/thumbnail" >
-</p>
+![x0lg0n snake dark](https://raw.githubusercontent.com/x0lg0n/idimetrix/output/github-contribution-grid-snake-dark.svg)
 
-## 🏆 GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=x0lg0n&theme=radical&no-frame=true&no-bg=false&margin-w=4)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=x0lg0n&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-# Spotify Playing 🎧
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31527mdjgu4osnmofdv4ng7l5atu)
-
-
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![](https://visitcount.itsvg.in/api?id=x0lg0n&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-<a href="https://hellogithub.com/repository/6a754391f9c84aa6830a6ed7927c4afb" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=6a754391f9c84aa6830a6ed7927c4afb&claim_uid=xsYT8dcBt7iI5K0&theme=dark" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
-![x0lg0n's github activity graph](https://raw.githubusercontent.com/x0lg0n/idimetrix/output/github-contribution-grid-snake-dark.svg)
-<!--START_SECTION:waka-->
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/siddhartha.002) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RyomenSukuna131) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/vapor_wave) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/siddhartha002) 
-![](https://count.getloli.com/get/@x0lg0n.github.readme)
-  
-
-[![x0lg0n's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=x0lg0n&theme=react-dark)](https://github.com/x0lg0n/github-readme-activity-graph)
-
-## 👾 Cute Maze
+---
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/pacman-contribution-graph.svg">
@@ -99,4 +161,16 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/pacman-contribution-graph.svg">
 </picture>
 
-<!--END_SECTION:waka-->
+---
+
+<div align="center">
+  <a href="https://buymeacoffee.com/siddhartha.002"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" style="border-radius:999px;" /></a>
+  <a href="https://paypal.me/RyomenSukuna131"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" style="border-radius:999px;" /></a>
+  <a href="https://patreon.com/vapor_wave"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" style="border-radius:999px;" /></a>
+  <a href="https://ko-fi.com/siddhartha002"><img src="https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" style="border-radius:999px;" /></a>
+  <a href="https://liberapay.com/siddhartha002/donate"><img src="https://img.shields.io/badge/Liberapay-007DFF?style=for-the-badge&logo=liberapay&logoColor=white" alt="Liberapay" style="border-radius:999px;" /></a>
+</div>
+
+<p align="center">
+  <img src="https://tenor.com/dFPb72GnHS9.gif" alt="Tenor GIF" width="100%" />
+</p>
