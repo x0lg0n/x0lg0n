@@ -147,12 +147,13 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 </div>
 
 ---
+<div align="center">
+  <h2> Open Source Contributions </h2>
 
-<h2 align="center">Open Source Contributions</h2>
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=x0lg0n&theme=react-dark)
-![](https://ghchart.rshah.org/409ba5/x0lg0n)
-
+  ![](https://github-readme-activity-graph.vercel.app/graph?username=x0lg0n&theme=react-dark)
+  ![](https://ghchart.rshah.org/409ba5/x0lg0n)
+  
+</div>
 ---
 
 <h2 align="center">GitHub Stats</h2>
