@@ -151,9 +151,9 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
   <h2> Open Source Contributions </h2>
 
   ![](https://github-readme-activity-graph.vercel.app/graph?username=x0lg0n&theme=react-dark)
-  ![](https://ghchart.rshah.org/409ba5/x0lg0n)
   
 </div>
+
 ---
 
 <h2 align="center">GitHub Stats</h2>
@@ -184,7 +184,12 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 
-![x0lg0n snake dark](https://raw.githubusercontent.com/x0lg0n/idimetrix/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  
+  ![](https://ghchart.rshah.org/409ba5/x0lg0n)
+  ![x0lg0n snake dark](https://raw.githubusercontent.com/x0lg0n/idimetrix/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
 
 ---
 
