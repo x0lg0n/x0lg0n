@@ -110,11 +110,22 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 <h2 align="center">Achievements</h2>
 
-- GSSOC 2024 & 2025 contributor with multiple badges earned.
-- `1,200+` coding hours tracked.
-- `10.5k+` lines of code written.
-- `500+` commits completed.
-- Active open-source builder and community contributor.
+<table>
+  <tr>
+    <td width="72%" valign="top">
+      <ul>
+        <li>GSSOC 2024 &amp; 2025 contributor with multiple badges earned.</li>
+        <li><code>1,200+</code> coding hours tracked.</li>
+        <li><code>10.5k+</code> lines of code written.</li>
+        <li><code>500+</code> commits completed.</li>
+        <li>Active open-source builder and community contributor.</li>
+      </ul>
+    </td>
+    <td width="28%" align="center" valign="top">
+      <img src="./assets/Angry%20Cat%20Girl%20Sticker%20by%20Crunchyroll.gif" alt="Angry Cat Girl Sticker" width="200" />
+    </td>
+  </tr>
+</table>
 
 --- 
 
