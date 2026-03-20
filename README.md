@@ -230,10 +230,6 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 
-<p align="center">
-  <img src="./assets/gif.gif" alt="Anime accent gif" width="90" />
-</p>
-
 <div align="center">
   <a href="https://buymeacoffee.com/siddhartha.002"><img src="https://img.shields.io/badge/%F0%9F%8C%B8%20Buy%20Me%20a%20Coffee-FFC7E8?style=for-the-badge&labelColor=3A2947&logo=buy-me-a-coffee&logoColor=FFD54F" alt="Buy Me A Coffee" /></a>
   <a href="https://paypal.me/RyomenSukuna131"><img src="https://img.shields.io/badge/%F0%9F%92%99%20PayPal-AEC8FF?style=for-the-badge&labelColor=2A3A66&logo=paypal&logoColor=FFFFFF" alt="PayPal" /></a>
