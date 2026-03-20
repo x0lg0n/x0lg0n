@@ -205,5 +205,11 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 </div>
 
 <p align="center">
-  <img src="https://tenor.com/dFPb72GnHS9.gif" alt="Tenor GIF" width="100%" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=x0lg0n&label=Profile%20Views&icon=5&pretty=true" alt="Profile Views" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="./assets/gif.gif" alt="Outro GIF" width="100%" />
 </p>
