@@ -114,11 +114,11 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 <table align="center">
   <tr>
-    <td align="center" valign="middle" style="padding-right: 12px;">
-      <img src="https://count.getloli.com/@x0lg0n.github.readme?theme=booru-lewd&padding=7&darkmode=auto" alt="x0lg0n profile counter" />
-    </td>
     <td align="center" valign="middle" style="padding-left: 12px;">
       <img src="./assets/Angry Cat Girl Sticker by Crunchyroll.gif" alt="Angry Cat Girl Sticker" width="220" style="transform: scaleX(-1);" />
+    </td>
+    <td align="center" valign="middle" style="padding-right: 12px;">
+      <img src="https://count.getloli.com/@x0lg0n.github.readme?theme=booru-lewd&padding=7&darkmode=auto" alt="x0lg0n profile counter" />
     </td>
   </tr>
 </table>
