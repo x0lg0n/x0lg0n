@@ -17,10 +17,11 @@
   </a>
 </p>
 
-I build, ship, and share in public.
-I am growing a creator-first developer brand around Blockchain, full-stack products, and open-source contributions.
-<br/>
+<p>
+<b>I build, ship, and share in public.
+I am growing a creator-first developer brand around Blockchain, full-stack products, and open-source contributions.</b>
 <b><i>Currently learning: Blockchain Development and Go Backend Engineering.</i></b>
+</p>
 
 ---
 
@@ -30,7 +31,7 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
   <tr>
     <td width="72%" valign="top">
       <ul>
-        <li>I build and ship real-world products in public across blockchain, backend, and full-stack development.</li>
+        <li>I build and ship real-world products in public across <b>blockchain, backend</b>, and <b>full-stack development.</b></li>
         <li>I turn experiments into clear learnings and share practical workflows as a tech creator.</li>
         <li>I actively collaborate with developers and open-source communities worldwide.</li>
         <li>I am currently focused on backend engineering, blockchain systems, and scalable architecture.</li>
