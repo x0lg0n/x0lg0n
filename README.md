@@ -25,7 +25,7 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 
-<h2 align="center">âœ¨ About Me âœ¨</h2>
+<h2 align="center">✨ About Me ✨</h2>
 
 <table>
   <tr>
@@ -125,7 +125,7 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 
-<h2 align="center">ðŸ† Achievements ðŸ†</h2>
+<h2 align="center">🏆 Achievements 🏆</h2>
 
 <table align="center">
   <tr>
@@ -165,7 +165,7 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 <div align="center">
-  <h2>ðŸŒŸ Open Source Contributions ðŸŒŸ</h2>
+  <h2>🌟 Open Source Contributions 🌟</h2>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=x0lg0n&theme=react-dark" alt="GitHub Activity Graph" style="width:100%; max-width:1000px; height:auto;" />
 
@@ -180,7 +180,7 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 
-<h2 align="center">ðŸ“Š GitHub Stats ðŸ“Š</h2>
+<h2 align="center">📊 GitHub Stats 📊</h2>
 
 <table align="center">
   <tr>
