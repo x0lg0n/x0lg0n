@@ -154,8 +154,8 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
   <table align="center">
     <tr>
-      <td><img src="https://leetcard.jacoblin.cool/x0lg0n?theme=dark&font=Karma" alt="LeetCode Problems" width="100%" /></td>
-      <td><img src="https://leetcard.jacoblin.cool/x0lg0n?theme=dark&font=Karma&ext=contest" alt="LeetCode Contest Stats" width="100%" /></td>
+      <td align="center"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=x0lg0n" alt="GeeksforGeeks Stats" width="430" height="220" /></td>
+      <td align="center"><img src="https://leetcard.jacoblin.cool/x0lg0n?theme=dark&font=Karma&ext=contest" alt="LeetCode Contest Stats" width="430" height="220" /></td>
     </tr>
   </table>
   
