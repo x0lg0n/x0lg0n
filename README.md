@@ -1,4 +1,4 @@
-<h1 align="center">Siddhartha Kunwar | Tech Influencer + Solo Builder</h1>
+﻿<h1 align="center">Siddhartha Kunwar | Tech Influencer + Solo Builder</h1>
 
 
 <p align="center">
@@ -25,7 +25,7 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 
-<h2 align="center">✨ About Me ✨</h2>
+<h2 align="center">âœ¨ About Me âœ¨</h2>
 
 <table>
   <tr>
@@ -49,35 +49,34 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 
-
 <h2 align="center">💮 Favorite Tech 💮</h2>
 
-> Tools, languages, and platforms I like to work with.
+<p align="center">Tools, languages, and platforms I like to build with.</p>
 
-<table align="center">
+<table align="center" cellpadding="10" cellspacing="8">
   <tr>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" height="44" alt="Python" /><br/>Python</td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" /><br/>JavaScript</td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" alt="React" /><br/>React</td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js" /><br/>Node.js</td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="44" height="44" alt="Express.js" /><br/>Express</td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44" height="44" alt="MongoDB" /><br/>MongoDB</td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="62" height="62" alt="JavaScript" /><br/><sub>JavaScript</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ts" width="62" height="62" alt="TypeScript" /><br/><sub>TypeScript</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="62" height="62" alt="React" /><br/><sub>React</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nextjs" width="62" height="62" alt="Next.js" /><br/><sub>Next.js</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=vue" width="62" height="62" alt="Vue.js" /><br/><sub>Vue.js</sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="62" height="62" alt="Express" /><br/><sub>Express</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL" /><br/>MySQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="44" height="44" alt="TensorFlow" /><br/>TensorFlow</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="44" height="44" alt="Docker" /><br/>Docker</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="44" height="44" alt="Google Cloud" /><br/>GCP</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44" height="44" alt="Git" /><br/>Git</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44" height="44" alt="GitHub" /><br/>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="62" height="62" alt="Node.js" /><br/><sub>Node.js</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="62" height="62" alt="MongoDB" /><br/><sub>MongoDB</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="62" height="62" alt="MySQL" /><br/><sub>MySQL</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="62" height="62" alt="PostgreSQL" /><br/><sub>PostgreSQL</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=go" width="62" height="62" alt="Go" /><br/><sub>Go</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="62" height="62" alt="Python" /><br/><sub>Python</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5" /><br/>HTML5</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3" /><br/>CSS3</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="44" height="44" alt="Tailwind CSS" /><br/>Tailwind</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="44" height="44" alt="Next.js" /><br/>Next.js</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="44" height="44" alt="Linux" /><br/>Linux</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="44" height="44" alt="Figma" /><br/>Figma</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="62" height="62" alt="Docker" /><br/><sub>Docker</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="62" height="62" alt="Linux" /><br/><sub>Linux</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="62" height="62" alt="Git" /><br/><sub>Git</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="62" height="62" alt="GitHub" /><br/><sub>GitHub</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="62" height="62" alt="VS Code" /><br/><sub>VS Code</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="62" height="62" alt="Figma" /><br/><sub>Figma</sub></td>
   </tr>
 </table>
 
@@ -88,21 +87,21 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 <table align="center">
   <tr>
     <td valign="top" align="center" width="230">
-      <img src="./assets/Animation Thank You Sticker by Holler Studios.gif" alt="Angry Cat Girl Sticker" width="200" />
+      <img src="./assets/Cat Thank You Sticker by Holler Studios.gif" alt="Anime Sticker" width="200" />
     </td>
     <td valign="top">
-      <table>
+      <table align="center" cellpadding="10" cellspacing="8">
         <tr>
-          <td align="center" width="130"><a href="https://github.com/x0lg0n"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" /><br/>GitHub</a></td>
-          <td align="center" width="130"><a href="https://twitter.com/Siddhar08995842"><img src="https://cdn.simpleicons.org/x/000000" alt="X" width="40" height="40" /><br/>X</a></td>
-          <td align="center" width="130"><a href="https://www.linkedin.com/in/siddhartha-kunwar"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" /><br/>LinkedIn</a></td>
-          <td align="center" width="130"><a href="https://instagram.com/siddhartha.002"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40" /><br/>Instagram</a></td>
+          <td align="center" width="110"><a href="https://github.com/x0lg0n"><img src="https://skillicons.dev/icons?i=github" width="62" height="62" alt="GitHub" /><br/><sub>GitHub</sub></a></td>
+          <td align="center" width="110"><a href="https://twitter.com/Siddhar08995842"><img src="https://skillicons.dev/icons?i=twitter" width="62" height="62" alt="X" /><br/><sub>X</sub></a></td>
+          <td align="center" width="110"><a href="https://www.linkedin.com/in/siddhartha-kunwar"><img src="https://skillicons.dev/icons?i=linkedin" width="62" height="62" alt="LinkedIn" /><br/><sub>LinkedIn</sub></a></td>
+          <td align="center" width="110"><a href="https://instagram.com/siddhartha.002"><img src="https://skillicons.dev/icons?i=instagram" width="62" height="62" alt="Instagram" /><br/><sub>Instagram</sub></a></td>
         </tr>
         <tr>
-          <td align="center" width="130"><a href="https://stackoverflow.com/users/22454565"><img src="https://cdn.simpleicons.org/stackoverflow/FE7A16" alt="Stack Overflow" width="40" height="40" /><br/>Stack Overflow</a></td>
-          <td align="center" width="130"><a href="https://dev.to/x0lg0n"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/devdotto.svg" alt="DEV Community" width="40" height="40" /><br/>DEV.to</a></td>
-          <td align="center" width="130"><a href="https://medium.com/@siddharthakunwar"><img src="https://cdn.simpleicons.org/medium/12100E" alt="Medium" width="40" height="40" /><br/>Medium</a></td>
-          <td align="center" width="130"><a href="https://app.daily.dev/x0lg0n"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dailydotdev.svg" alt="daily.dev" width="40" height="40" /><br/>daily.dev</a></td>
+          <td align="center" width="110"><a href="https://stackoverflow.com/users/22454565"><img src="https://cdn.simpleicons.org/stackoverflow/FE7A16" width="62" height="62" alt="Stack Overflow" /><br/><sub>Stack Overflow</sub></a></td>
+          <td align="center" width="110"><a href="https://dev.to/x0lg0n"><img src="https://cdn.simpleicons.org/devdotto/0A0A0A" width="62" height="62" alt="DEV.to" /><br/><sub>DEV.to</sub></a></td>
+          <td align="center" width="110"><a href="https://medium.com/@siddharthakunwar"><img src="https://cdn.simpleicons.org/medium/12100E" width="62" height="62" alt="Medium" /><br/><sub>Medium</sub></a></td>
+          <td align="center" width="110"><a href="https://app.daily.dev/x0lg0n"><img src="https://cdn.simpleicons.org/dailydotdev/0A0A0A" width="62" height="62" alt="daily.dev" /><br/><sub>daily.dev</sub></a></td>
         </tr>
       </table>
     </td>
@@ -111,7 +110,22 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 
-<h2 align="center">🏆 Achievements 🏆</h2>
+<h2 align="center">👀 Profile Views 👀</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="middle" style="padding-right: 12px;">
+      <img src="https://count.getloli.com/@x0lg0n.github.readme?theme=booru-lewd&padding=7&darkmode=auto" alt="x0lg0n profile counter" />
+    </td>
+    <td align="center" valign="middle" style="padding-left: 12px;">
+      <img src="./assets/Angry Cat Girl Sticker by Crunchyroll.gif" alt="Angry Cat Girl Sticker" width="220" style="transform: scaleX(-1);" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">ðŸ† Achievements ðŸ†</h2>
 
 <table align="center">
   <tr>
@@ -125,7 +139,7 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
       </ul>
     </td>
     <td width="28%" align="center" valign="top">
-      <img src="./assets/Animation Manga Sticker by Holler Studios.gif" alt="Angry Cat Girl Sticker" width="200" />
+      <img src="./assets/Girl Wow Sticker by OnePlus.gif" alt="Angry Cat Girl Sticker" width="200" />
     </td>
   </tr>
 </table>
@@ -151,7 +165,7 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 <div align="center">
-  <h2>🌟 Open Source Contributions 🌟</h2>
+  <h2>ðŸŒŸ Open Source Contributions ðŸŒŸ</h2>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=x0lg0n&theme=react-dark" alt="GitHub Activity Graph" style="width:100%; max-width:1000px; height:auto;" />
 
@@ -166,7 +180,7 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
+<h2 align="center">ðŸ“Š GitHub Stats ðŸ“Š</h2>
 
 <table align="center">
   <tr>
@@ -216,6 +230,10 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 
+<p align="center">
+  <img src="./assets/gif.gif" alt="Anime accent gif" width="90" />
+</p>
+
 <div align="center">
   <a href="https://buymeacoffee.com/siddhartha.002"><img src="https://img.shields.io/badge/%F0%9F%8C%B8%20Buy%20Me%20a%20Coffee-FFC7E8?style=for-the-badge&labelColor=3A2947&logo=buy-me-a-coffee&logoColor=FFD54F" alt="Buy Me A Coffee" /></a>
   <a href="https://paypal.me/RyomenSukuna131"><img src="https://img.shields.io/badge/%F0%9F%92%99%20PayPal-AEC8FF?style=for-the-badge&labelColor=2A3A66&logo=paypal&logoColor=FFFFFF" alt="PayPal" /></a>
@@ -223,4 +241,3 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
   <a href="https://ko-fi.com/siddhartha002"><img src="https://img.shields.io/badge/%E2%98%95%20Ko--Fi-FFB3C7?style=for-the-badge&labelColor=4A2A3D&logo=ko-fi&logoColor=FFFFFF" alt="Ko-Fi" /></a>
   <a href="https://liberapay.com/siddhartha002/donate"><img src="https://img.shields.io/badge/%F0%9F%8C%99%20Liberapay-B9E4FF?style=for-the-badge&labelColor=243A52&logo=liberapay&logoColor=FFFFFF" alt="Liberapay" /></a>
 </div>
-
