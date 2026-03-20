@@ -171,12 +171,12 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 <table align="center">
   <tr>
     <td colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x0lg0n&theme=github_dark" alt="Profile Details" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x0lg0n&theme=github_dark" alt="Profile Details" width="1000" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://streak-stats.demolab.com?user=x0lg0n&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=x0lg0n&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="1000" />
     </td>
   </tr>
   <tr>
