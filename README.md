@@ -2,12 +2,12 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Products+In+Public;Machine+Learning+%2B+Full-Stack+Creator;Open+Source+%7C+Content+%7C+Community" alt="Typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF9EC4&center=true&vCenter=true&width=900&lines=Building+Products+In+Public;Machine+Learning+%2B+Full-Stack+Creator;Open+Source+%7C+Content+%7C+Community" alt="Typing headline" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2050%20mins-blue" alt="Code Time" />
-  <img src="https://img.shields.io/badge/Lines%20of%20Code-10.5%20k-brightgreen" alt="Lines of Code" />
+  <img src="https://img.shields.io/badge/Lines%20of%20Code-10.5k-brightgreen" alt="Lines of Code" />
   <img src="https://img.shields.io/badge/Commits-500-yellow" alt="Commits" />
 </p>
 
@@ -25,7 +25,7 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 
-<h2 align="center">About Me</h2>
+<h2 align="center">✨ About Me ✨</h2>
 
 <table>
   <tr>
@@ -50,7 +50,7 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 ---
 
 
-<h2 align="center">Favorite Tech</h2>
+<h2 align="center">💮 Favorite Tech 💮</h2>
 
 > Tools, languages, and platforms I like to work with.
 
@@ -83,7 +83,7 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 
-<h2 align="center">Follow My Journey</h2>
+<h2 align="center">🎀 Follow My Journey 🎀</h2>
 
 <table align="center">
   <tr>
@@ -111,7 +111,7 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 
-<h2 align="center">Achievements</h2>
+<h2 align="center">🏆 Achievements 🏆</h2>
 
 <table align="center">
   <tr>
@@ -151,7 +151,7 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 <div align="center">
-  <h2> Open Source Contributions </h2>
+  <h2>🌟 Open Source Contributions 🌟</h2>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=x0lg0n&theme=react-dark" alt="GitHub Activity Graph" style="width:100%; max-width:1000px; height:auto;" />
 
@@ -166,7 +166,7 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats 📊</h2>
 
 <table align="center">
   <tr>
@@ -201,8 +201,8 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 <div align="center">
   
-  ![](https://ghchart.rshah.org/409ba5/x0lg0n)
-  ![x0lg0n snake dark](https://raw.githubusercontent.com/x0lg0n/idimetrix/output/github-contribution-grid-snake-dark.svg)
+  <img src="https://ghchart.rshah.org/409ba5/x0lg0n" alt="GitHub Contribution Heatmap" />
+  <img src="https://raw.githubusercontent.com/x0lg0n/idimetrix/output/github-contribution-grid-snake-dark.svg" alt="x0lg0n snake dark" />
   
 </div>
 
@@ -217,9 +217,10 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 ---
 
 <div align="center">
-  <a href="https://buymeacoffee.com/siddhartha.002"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" style="border-radius:999px;" /></a>
-  <a href="https://paypal.me/RyomenSukuna131"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" style="border-radius:999px;" /></a>
-  <a href="https://patreon.com/vapor_wave"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" style="border-radius:999px;" /></a>
-  <a href="https://ko-fi.com/siddhartha002"><img src="https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" style="border-radius:999px;" /></a>
-  <a href="https://liberapay.com/siddhartha002/donate"><img src="https://img.shields.io/badge/Liberapay-007DFF?style=for-the-badge&logo=liberapay&logoColor=white" alt="Liberapay" style="border-radius:999px;" /></a>
+  <a href="https://buymeacoffee.com/siddhartha.002"><img src="https://img.shields.io/badge/%F0%9F%8C%B8%20Buy%20Me%20a%20Coffee-FFC7E8?style=for-the-badge&labelColor=3A2947&logo=buy-me-a-coffee&logoColor=FFD54F" alt="Buy Me A Coffee" /></a>
+  <a href="https://paypal.me/RyomenSukuna131"><img src="https://img.shields.io/badge/%F0%9F%92%99%20PayPal-AEC8FF?style=for-the-badge&labelColor=2A3A66&logo=paypal&logoColor=FFFFFF" alt="PayPal" /></a>
+  <a href="https://patreon.com/vapor_wave"><img src="https://img.shields.io/badge/%E2%9C%A8%20Patreon-FFB0A1?style=for-the-badge&labelColor=5A2C2C&logo=patreon&logoColor=FFFFFF" alt="Patreon" /></a>
+  <a href="https://ko-fi.com/siddhartha002"><img src="https://img.shields.io/badge/%E2%98%95%20Ko--Fi-FFB3C7?style=for-the-badge&labelColor=4A2A3D&logo=ko-fi&logoColor=FFFFFF" alt="Ko-Fi" /></a>
+  <a href="https://liberapay.com/siddhartha002/donate"><img src="https://img.shields.io/badge/%F0%9F%8C%99%20Liberapay-B9E4FF?style=for-the-badge&labelColor=243A52&logo=liberapay&logoColor=FFFFFF" alt="Liberapay" /></a>
 </div>
+
