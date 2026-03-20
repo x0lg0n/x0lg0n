@@ -110,7 +110,7 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 <h2 align="center">Achievements</h2>
 
-<table>
+<table align="center">
   <tr>
     <td width="72%" valign="top">
       <ul>
@@ -122,7 +122,7 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
       </ul>
     </td>
     <td width="28%" align="center" valign="top">
-      <img src="./assets/Angry%20Cat%20Girl%20Sticker%20by%20Crunchyroll.gif" alt="Angry Cat Girl Sticker" width="200" />
+      <img src="./assets/Animation Manga Sticker by Holler Studios.gif" alt="Angry Cat Girl Sticker" width="200" />
     </td>
   </tr>
 </table>
