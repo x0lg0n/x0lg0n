@@ -1,5 +1,6 @@
 <h1 align="center">Siddhartha Kunwar | Tech Influencer + Solo Builder</h1>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Products+In+Public;Machine+Learning+%2B+Full-Stack+Creator;Open+Source+%7C+Content+%7C+Community" alt="Typing headline" />
 </p>
@@ -23,12 +24,23 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 <h2 align="center">About Me</h2>
 
-- I build and ship machine learning + full-stack projects in public.
-- I share experiments, lessons, and workflows as a tech creator.
-- I collaborate with developers and open-source communities worldwide.
-- I am currently deepening my skills in Backend Developemnt & Blockchain development.
-- Ask me about technology, mathematics, and practical project building.
-- Fun fact: I love watching anime.
+<table>
+  <tr>
+    <td width="72%" valign="top">
+      <ul>
+        <li>I build and ship machine learning + full-stack projects in public.</li>
+        <li>I share experiments, lessons, and workflows as a tech creator.</li>
+        <li>I collaborate with developers and open-source communities worldwide.</li>
+        <li>I am currently deepening my skills in Backend Developemnt &amp; Blockchain development.</li>
+        <li>Ask me about technology, mathematics, and practical project building.</li>
+        <li>Fun fact: I love watching anime.</li>
+      </ul>
+    </td>
+    <td width="28%" align="center" valign="top">
+      <img src="./assets/Computer%20Laptop%20Sticker%20by%20Crunchyroll.gif" alt="Crunchyroll Laptop Sticker" width="200" />
+    </td>
+  </tr>
+</table>
 
 <img src="./assets/26206.gif" alt="Banner GIF" width="100%" />
 
