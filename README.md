@@ -203,13 +203,3 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
   <a href="https://ko-fi.com/siddhartha002"><img src="https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" style="border-radius:999px;" /></a>
   <a href="https://liberapay.com/siddhartha002/donate"><img src="https://img.shields.io/badge/Liberapay-007DFF?style=for-the-badge&logo=liberapay&logoColor=white" alt="Liberapay" style="border-radius:999px;" /></a>
 </div>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=x0lg0n&label=Profile%20Views&icon=5&pretty=true" alt="Profile Views" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="./assets/gif.gif" alt="Outro GIF" width="100%" />
-</p>
