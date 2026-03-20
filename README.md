@@ -19,10 +19,8 @@
 
 I build, ship, and share in public.
 I am growing a creator-first developer brand around Blockchain, full-stack products, and open-source contributions.
-
-<p align="center">
-  <b>Currently Learning:</b> Blockchain Development and Go Backend Engineering
-</p>
+<br/>
+<b><i>Currently learning: Blockchain Development and Go Backend Engineering.</i></b>
 
 ---
 
