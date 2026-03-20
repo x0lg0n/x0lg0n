@@ -150,7 +150,14 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 <div align="center">
   <h2> Open Source Contributions </h2>
 
-  ![](https://github-readme-activity-graph.vercel.app/graph?username=x0lg0n&theme=react-dark)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=x0lg0n&theme=react-dark" alt="GitHub Activity Graph" />
+
+  <table align="center">
+    <tr>
+      <td><img src="https://leetcard.jacoblin.cool/x0lg0n?theme=dark&font=Karma" alt="LeetCode Problems" width="100%" /></td>
+      <td><img src="https://leetcard.jacoblin.cool/x0lg0n?theme=dark&font=Karma&ext=contest" alt="LeetCode Contest Stats" width="100%" /></td>
+    </tr>
+  </table>
   
 </div>
 
@@ -162,6 +169,11 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
   <tr>
     <td colspan="2">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x0lg0n&theme=github_dark" alt="Profile Details" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://streak-stats.demolab.com?user=x0lg0n&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
