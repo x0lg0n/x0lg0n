@@ -28,12 +28,12 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
   <tr>
     <td width="72%" valign="top">
       <ul>
-        <li>I build and ship machine learning + full-stack projects in public.</li>
-        <li>I share experiments, lessons, and workflows as a tech creator.</li>
-        <li>I collaborate with developers and open-source communities worldwide.</li>
-        <li>I am currently deepening my skills in Backend Developemnt &amp; Blockchain development.</li>
-        <li>Ask me about technology, mathematics, and practical project building.</li>
-        <li>Fun fact: I love watching anime.</li>
+        <li>I build and ship real-world products in public across blockchain, backend, and full-stack development.</li>
+        <li>I turn experiments into clear learnings and share practical workflows as a tech creator.</li>
+        <li>I actively collaborate with developers and open-source communities worldwide.</li>
+        <li>I am currently focused on backend engineering, blockchain systems, and scalable architecture.</li>
+        <li>Ask me about product building, developer tooling, technology, and mathematics.</li>
+        <li>Fun fact: anime is my favorite reset after long coding sessions.</li>
       </ul>
     </td>
     <td width="28%" align="center" valign="top">
