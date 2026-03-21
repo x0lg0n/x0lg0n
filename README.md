@@ -1,30 +1,34 @@
 ﻿<h1 align="center">Siddhartha Kunwar | Tech Influencer + Solo Builder</h1>
 
-
+<!-- TYPING SVG GENERATED USING: https://readme-typing-svg.demolab.com/ -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF9EC4&center=true&vCenter=true&width=900&lines=Building+Products+In+Public;Machine+Learning+%2B+Full-Stack+Creator;Open+Source+%7C+Content+%7C+Community" alt="Typing headline" />
 </p>
 
+<!-- WAKATIME STATS GENERATED USING: https://wakatime.com/@x0lg0n/badge.svg -->
 <p align="center">
   <img src="https://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2050%20mins-blue" alt="Code Time" />
   <img src="https://img.shields.io/badge/Lines%20of%20Code-10.5k-brightgreen" alt="Lines of Code" />
   <img src="https://img.shields.io/badge/Commits-500-yellow" alt="Commits" />
 </p>
 
+<!-- HOLOPIN BADGES GENERATED USING: https://holopin.io/@scarllethub -->
 <p align="center">
   <a href="https://holopin.io/@scarllethub">
     <img src="https://holopin.me/scarllethub" alt="Holopin badges" />
   </a>
 </p>
 
+<!-- PROFILE SUMMARY -->
 <p>
-<b>I build, ship, and share in public.
-I am growing a creator-first developer brand around Blockchain, full-stack products, and open-source contributions.</b>
-<b><i>Currently learning: Blockchain Development and Go Backend Engineering.</i></b>
+  <b>I build, ship, and share in public.
+  I am growing a creator-first developer brand around Blockchain, full-stack products, and open-source contributions.</b>
+  <b><i>Currently learning: Blockchain Development and Go Backend Engineering.</i></b>
 </p>
 
 ---
 
+<!-- ABOUT ME -->
 <h2 align="center">✨ About Me ✨</h2>
 
 <table>
@@ -49,6 +53,7 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 
+<!-- FAVORITE TECH -->
 <h2 align="center">💮 Favorite Tech 💮</h2>
 
 <p align="center">Tools, languages, and platforms I like to build with.</p>
@@ -59,22 +64,22 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
     <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ts" width="62" height="62" alt="TypeScript" /><br/><sub>TypeScript</sub></td>
     <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="62" height="62" alt="React" /><br/><sub>React</sub></td>
     <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nextjs" width="62" height="62" alt="Next.js" /><br/><sub>Next.js</sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=vue" width="62" height="62" alt="Vue.js" /><br/><sub>Vue.js</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="62" height="62" alt="Node.js" /><br/><sub>Node.js</sub></td>
     <td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="62" height="62" alt="Express" /><br/><sub>Express</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="62" height="62" alt="Node.js" /><br/><sub>Node.js</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="62" height="62" alt="MongoDB" /><br/><sub>MongoDB</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="62" height="62" alt="MySQL" /><br/><sub>MySQL</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="62" height="62" alt="redis" /><br/><sub>Redis</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="62" height="62" alt="PostgreSQL" /><br/><sub>PostgreSQL</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=go" width="62" height="62" alt="Go" /><br/><sub>Go</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="62" height="62" alt="Python" /><br/><sub>Python</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=rust" width="62" height="62" alt="Node.js" /><br/><sub>Rust</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="62" height="62" alt="Docker" /><br/><sub>Docker</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="62" height="62" alt="Linux" /><br/><sub>Linux</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="62" height="62" alt="Git" /><br/><sub>Git</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="62" height="62" alt="GitHub" /><br/><sub>GitHub</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="62" height="62" alt="AWS" /><br/><sub>AWS</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="62" height="62" alt="VS Code" /><br/><sub>VS Code</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="62" height="62" alt="Figma" /><br/><sub>Figma</sub></td>
   </tr>
@@ -82,6 +87,7 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 
+<!-- FOLLOW ME ON SOCIALS -->
 <h2 align="center">🎀 Follow My Journey 🎀</h2>
 
 <table align="center">
@@ -110,12 +116,13 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 
+<!-- PROFILE VIEWS GENERATED USING: https://count.getloli.com/ -->
 <h2 align="center">👀 Profile Views 👀</h2>
 
 <table align="center">
   <tr>
-    <td align="center" valign="middle" style="padding-left: 12px;">
-      <img src="./assets/Angry Cat Girl Sticker by Crunchyroll.gif" alt="Angry Cat Girl Sticker" width="220" style="transform: scaleX(-1);" />
+    <td align="center" valign="middle" style="padding-right: 12px;" width="50%">
+      <img src="./assets/Angry Cat Girl Sticker by Crunchyroll.gif" alt="Angry Cat Girl Sticker" width="220"/>
     </td>
     <td align="center" valign="middle" style="padding-right: 12px;">
       <img src="https://count.getloli.com/@x0lg0n.github.readme?theme=booru-lewd&padding=7&darkmode=auto" alt="x0lg0n profile counter" />
@@ -125,6 +132,7 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 
+<!-- ACHIEVEMENTS -->
 <h2 align="center">🏆 Achievements 🏆</h2>
 
 <table align="center">
@@ -144,8 +152,9 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
   </tr>
 </table>
 
---- 
+---
 
+<!-- GSOC 2024 &amp; 2025 Badges: -->
 <div align="center">
   <a href="https://gssoc.girlscript.tech/leaderboard">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="96" height="96" alt="Postman White" />
@@ -164,6 +173,8 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 </div>
 
 ---
+
+<!-- OPEN SOURCE CONTRIBUTIONS -->
 <div align="center">
   <h2>🌟 Open Source Contributions 🌟</h2>
 
@@ -175,11 +186,11 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
       <td align="center"><img src="https://leetcard.jacoblin.cool/x0lg0n?theme=dark&font=Karma&ext=contest" alt="LeetCode Contest Stats" style="width:100%; max-width:430px; height:auto;" /></td>
     </tr>
   </table>
-  
 </div>
 
 ---
 
+<!-- GITHUB STATS GENERATED USING: https://github.com/anuraghazra/github-readme-stats -->
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <table align="center">
@@ -213,7 +224,14 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 
+<!-- GITHUB CONTRIBUTION HEATMAP -->
 <div align="center">
+  <img src="https://ghchart.rshah.org/9b59b6/x0lg0n" alt="GitHub Heatmap" />
+</div>
+
+<!-- SNAKE ANIMATION CONTRIBUTION GRAPH -->
+<div align="center">
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x0lg0n/x0lg0n/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x0lg0n/x0lg0n/output/github-contribution-grid-snake.svg">
