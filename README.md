@@ -213,23 +213,22 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 
-<div align="center">
-  
-  <img src="https://ghchart.rshah.org/409ba5/x0lg0n" alt="GitHub Contribution Heatmap" />
-  <img src="https://raw.githubusercontent.com/x0lg0n/idimetrix/output/github-contribution-grid-snake-dark.svg" alt="x0lg0n snake dark" />
-  
-</div>
-
----
-
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/pacman-contribution-graph.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x0lg0n/x0lg0n/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x0lg0n/x0lg0n/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/x0lg0n/x0lg0n/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!-- PACK MAN CONTRIBUTION GRAPH -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x0lg0n/x0lg0n/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x0lg0n/x0lg0n/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/x0lg0n/x0lg0n/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
 
+<!-- SUPPORT MY WORK -->
 <div align="center">
   <a href="https://buymeacoffee.com/siddhartha.002"><img src="https://img.shields.io/badge/%F0%9F%8C%B8%20Buy%20Me%20a%20Coffee-FFC7E8?style=for-the-badge&labelColor=3A2947&logo=buy-me-a-coffee&logoColor=FFD54F" alt="Buy Me A Coffee" /></a>
   <a href="https://paypal.me/RyomenSukuna131"><img src="https://img.shields.io/badge/%F0%9F%92%99%20PayPal-AEC8FF?style=for-the-badge&labelColor=2A3A66&logo=paypal&logoColor=FFFFFF" alt="PayPal" /></a>
