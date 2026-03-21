@@ -54,7 +54,7 @@
 ---
 
 <!-- FAVORITE TECH -->
-<h2 align="center">💮 Favorite Tech 💮</h2>
+<h2 align="center">💮 Favorite Tech </h2>
 
 <p align="center">Tools, languages, and platforms I like to build with.</p>
 
@@ -131,27 +131,7 @@
 </table>
 
 ---
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=⛩️+x0lg0n+の+開発日誌;The+Developer's+Chronicle...;知識は力なり+%7C+Knowledge+is+Power" alt="Typing SVG" />
-
-<br/>
-
-> *「書くことは、剣よりも鋭い」*
-> *"The pen is sharper than the sword"*
-
-<br/>
-
-### ⚔️ 最新の巻物 | Latest Scrolls
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<br/>
-
-<img src="https://img.shields.io/badge/✍️_More_on-dev.to/x0lg0n-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-
-</div>
 <!-- ACHIEVEMENTS -->
 <h2 align="center">🏆 Achievements 🏆</h2>
 
@@ -251,7 +231,7 @@
 
 <!-- SNAKE ANIMATION CONTRIBUTION GRAPH -->
 <div align="center">
-  
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x0lg0n/x0lg0n/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x0lg0n/x0lg0n/output/github-contribution-grid-snake.svg">
@@ -267,6 +247,11 @@
 </picture>
 
 ---
+
+<!-- Constellation theme (looks most anime/space-like) -->
+<a href="https://moon-svg.minung.dev">
+  <img src="https://moon-svg.minung.dev/moon.svg?theme=constellation" alt="moon.svg" />
+</a>
 
 <!-- SUPPORT MY WORK -->
 <div align="center">
