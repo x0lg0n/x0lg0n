@@ -213,11 +213,13 @@ I am growing a creator-first developer brand around Blockchain, full-stack produ
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x0lg0n/x0lg0n/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x0lg0n/x0lg0n/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/x0lg0n/x0lg0n/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x0lg0n/x0lg0n/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x0lg0n/x0lg0n/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/x0lg0n/x0lg0n/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <!-- PACK MAN CONTRIBUTION GRAPH -->
 <picture>
