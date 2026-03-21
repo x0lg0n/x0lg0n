@@ -6,10 +6,11 @@
 </p>
 
 <!-- WAKATIME STATS GENERATED USING: https://wakatime.com/@x0lg0n/badge.svg -->
+<!-- WAKATIME STATS + STATUS BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2050%20mins-blue" alt="Code Time" />
-  <img src="https://img.shields.io/badge/Lines%20of%20Code-10.5k-brightgreen" alt="Lines of Code" />
-  <img src="https://img.shields.io/badge/Commits-500-yellow" alt="Commits" />
+  <img src="https://img.shields.io/badge/⏱️_Code_Time-1%2C200+_hrs-00BFFF?style=for-the-badge&labelColor=1a1b27" alt="Code Time" />
+  <img src="https://img.shields.io/badge/📝_Lines_of_Code-10.5k+-00BFFF?style=for-the-badge&labelColor=1a1b27" alt="Lines of Code" />
+  <img src="https://img.shields.io/badge/🔥_Commits-500+-00BFFF?style=for-the-badge&labelColor=1a1b27" alt="Commits" />
 </p>
 
 <!-- HOLOPIN BADGES GENERATED USING: https://holopin.io/@scarllethub -->
@@ -50,6 +51,9 @@
 </table>
 
 <img src="./assets/26206.gif" alt="Banner GIF" width="100%" />
+
+<!-- Cherry blossom divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ---
 
@@ -246,12 +250,9 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/x0lg0n/x0lg0n/output/pacman-contribution-graph.svg">
 </picture>
 
----
 
-<!-- Constellation theme (looks most anime/space-like) -->
-<a href="https://moon-svg.minung.dev">
-  <img src="https://moon-svg.minung.dev/moon.svg?theme=constellation" alt="moon.svg" />
-</a>
+<!-- Cherry blossom divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- SUPPORT MY WORK -->
 <div align="center">
