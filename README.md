@@ -131,7 +131,27 @@
 </table>
 
 ---
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=⛩️+x0lg0n+の+開発日誌;The+Developer's+Chronicle...;知識は力なり+%7C+Knowledge+is+Power" alt="Typing SVG" />
+
+<br/>
+
+> *「書くことは、剣よりも鋭い」*
+> *"The pen is sharper than the sword"*
+
+<br/>
+
+### ⚔️ 最新の巻物 | Latest Scrolls
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+<img src="https://img.shields.io/badge/✍️_More_on-dev.to/x0lg0n-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+
+</div>
 <!-- ACHIEVEMENTS -->
 <h2 align="center">🏆 Achievements 🏆</h2>
 
