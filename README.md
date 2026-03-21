@@ -144,8 +144,7 @@
 
 ### ⚔️ 最新の巻物 | Latest Scrolls
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 📜 [🚀 Starting My Tech Journey – Why I’m Sharing It Publicly](https://dev.to/x0lg0n/starting-my-tech-journey-why-im-sharing-it-publicly-2o8f) — `1919 DD, YYYY`- 📜 [What is Claude AI — And Why Are IT Companies Panicking?](https://dev.to/x0lg0n/what-is-claude-ai-and-why-are-it-companies-panicking-4omp) — `1212 DD, YYYY`<!-- BLOG-POST-LIST:END -->
 
 <br/>
 
